@@ -1,6 +1,6 @@
-# snakehack-python
+pachack-python
 
-A simple snakehack written in Python.
+A simple pachack written in Python.
 
 This AI client uses the [bottle web framework](http://bottlepy.org/docs/dev/index.html) to serve requests and the [gunicorn web server](http://gunicorn.org/) for running bottle on Heroku. Dependencies are listed in [requirements.txt](requirements.txt).
 
@@ -14,7 +14,7 @@ This AI client uses the [bottle web framework](http://bottlepy.org/docs/dev/inde
 
 ## Running the Snake Locally
 
-1) [Fork this repo](https://github.com/stair-ch/snakehack-python/fork).
+1) [Fork this repo](https://github.com/stairch/hslu_18hs_stair_pachack_python.git).
 
 2) Clone repo to your development environment:
 ```
